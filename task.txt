@@ -1,0 +1,30 @@
+PROJECT 2: Marks Shedule System
+
+--> total students = 5
+--> marks range
+    0..34 --> W
+    35..49 --> S
+    50..64 --> C 
+    65..74 --> B
+    75..100--> A
+
+--> 3 subjects 
+    ICT
+    PYTHON
+    JAVASCRIPT
+
+print this after every single students input
+name  ict python javascript total average A B C S W 
+
+and you should print out finally 
+name  ict python javascript total average A B C S W 
+
+----SUBJECT----
+highest marks :- 
+count of A,B,C,S,W :-
+average marks
+
+------------------------------------marks sheet------------------------
+
+finally
+    => inputed all marks
